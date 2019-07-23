@@ -1,4 +1,21 @@
 h1 {
     color: black;
-    text-align: right;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font: outline;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #3591f3a8;
+}
+
+#description {
+    text-align: center;
 }
