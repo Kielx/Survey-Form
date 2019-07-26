@@ -1,7 +1,7 @@
 h1 {
     color: black;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Abril Fatface', cursive;
     font-weight: bold;
     font: outline;
 }
@@ -13,9 +13,14 @@ html {
 
 body {
     font-family: 'Open Sans', sans-serif;
-    background-color: #3591f3a8;
+    background-color: /** #3591f3a8; */
+    white;
 }
 
 #description {
     text-align: center;
+}
+
+#radio1 {
+    padding-left: 200px !important;
 }
